@@ -1,0 +1,12 @@
+.custom-datepicker {
+  font-size: 0.875rem; /* Adjust the font size */
+  margin-right: 8px; /* Add spacing between date picker and icon */
+}
+
+button {
+  font-size: 0.875rem; /* Adjust button font size */
+}
+
+select {
+  font-size: 0.875rem; /* Adjust select box font size */
+}
